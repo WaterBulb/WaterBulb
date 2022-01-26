@@ -1,4 +1,4 @@
-### WaterBulb
+# WaterBulb
 ## Game Dev🎮 | App Dev 🍕
 
 <!--
