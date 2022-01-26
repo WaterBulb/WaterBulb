@@ -1,4 +1,5 @@
-### Hi there 👋
+### WaterBulb
+##Game Dev🎮 | App Dev 🍕
 
 <!--
 **WaterBulb/WaterBulb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
